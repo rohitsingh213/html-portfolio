@@ -1,1 +1,1 @@
-alert ("Happy Birthday and may this year all your dreams come true")
+alert ("This is my very first website, hope you will like it")
